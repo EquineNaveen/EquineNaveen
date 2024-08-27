@@ -2,6 +2,7 @@
 <h3 align="center">A passionate AI&ML engineer</h3>
 
 <img align="right" alt="Machine Learning" width="400" src="https://img-b.udemycdn.com/course/750x422/5129480_da6a.jpg">
+
 - 🌱 I’m currently learning **Deep Learning,Natural Language Processing,Gen AI**
 
 - 💬 Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Gen AI,Full Stack Development**
